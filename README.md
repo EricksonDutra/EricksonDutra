@@ -12,7 +12,7 @@
     <a href="https://twitter.com/ErickSon_Dut" target="_blank" title="Twitter">
     <img src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-do-iacute-cone-do-twitter-by-vexels.png" width="40px"></a> >>>
     <a href="https://www.instagram.com/ericksdutra/" target="_blank" title="Instagram">
-    <img src="https://image.shutterstock.com/image-photo/image-260nw-435629701.jpg" width="80px">
+    <img src="https://image.shutterstock.com/image-photo/image-260nw-435629701.jpg" width="90px">
   </a>
 </p>
 <br>
