@@ -1,4 +1,6 @@
 # Erickson Dutra
+ 📍 From Ponta Pora-MS
+ 
 ## 🤓 This is my README
 <p>
   <a href="https://www.linkedin.com/in/erickson-dutra-b8673453/" target="_blank" title="LinkedIn">
@@ -13,8 +15,8 @@
     <img src="https://image.shutterstock.com/image-photo/image-260nw-435629701.jpg" width="80px">
   </a>
 </p>
-<br><br>
-<h1> Em estudo </h1>
+<br>
+<h2>   🧑‍💻 Em estudo  👨‍💻 </h2>
 ## Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/72px-Python.svg.png" width="50px"> 
 ## JavaScript <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50px">
 ## NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" width="50px">
