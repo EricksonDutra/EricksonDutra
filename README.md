@@ -2,6 +2,8 @@
  📍 From Ponta Pora-MS
  
 ## 🤓 This is my README
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="light" data-vanity="erickson-dutra-b8673453"><a class="LI-simple-link" href='https://br.linkedin.com/in/erickson-dutra-b8673453?trk=profile-badge'>Erickson Dutra</a></div>
 <p>
   <a href="https://www.linkedin.com/in/erickson-dutra-b8673453/" target="_blank" title="LinkedIn">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="100px">
