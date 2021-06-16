@@ -29,7 +29,7 @@
 
  ### Programming Language
  <p> 
- >>> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/72px-Python.svg.png" width="50px" height="50">  >>> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50px" height="50">
+ >>> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/72px-Python.svg.png" width="120px" height="120">  >>> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50px" height="50">
 </p> 
  ### Frameworks and Libs
  <p> 
