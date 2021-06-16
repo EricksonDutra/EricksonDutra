@@ -1,5 +1,12 @@
 # Erickson Dutra
  📍 From Ponta Porã-MS
+ ``` dart
+ main(){
+  formacao: 'Sistema de Informação - UFMS - 2012';
+  formacao_II: 'Analise e Desenvolvimento de Sistemas - Anhanguera Educacional - 2020';
+  cursos: '**ENGLISH** - Wizard / MyEnglish Online / Whise Up Online / Duolingo';
+ } 
+ ```
  
 ## 🤓 This is my README
 
@@ -18,6 +25,5 @@
 </p>
 <br>
 <h2>   🧑‍💻 Em estudo  👨‍💻 </h2>
-## Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/72px-Python.svg.png" width="50px"> 
-## JavaScript <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50px">
-## NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" width="50px">
+
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/72px-Python.svg.png" width="50px">  >>> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50px"> >>> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" width="50px"> >>> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"  width="120px"></p> 
