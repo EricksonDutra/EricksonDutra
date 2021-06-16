@@ -33,4 +33,4 @@
 </p> 
  ### Frameworks and Libs
  <p> 
- >>> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" width="50px"> >>> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"  width="120px"></p> 
+ >>> <img src="https://i.ytimg.com/vi/KD2kJetfzas/maxresdefault.jpg" width="120px" height="55"> >>> <img src="https://flutter.dev/images/flutter-logo-sharing.png"  width="120px" height="60"></p> 
