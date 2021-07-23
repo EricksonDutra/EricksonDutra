@@ -25,12 +25,17 @@
 </p>
 <br>
 <h2>   🧑‍💻 Em estudo  👨‍💻 </h2>
-
-
- ### Programming Language
+ <p> 
+<img src="https://img.shields.io/static/v1?label=Focus01&message=Flutter&color=red&style=plastic&logo=flutter/">
+<img src="https://img.shields.io/static/v1?label=Focus02&message=React&color=blue&style=plastic&logo=react"/>
+<img src="https://img.shields.io/static/v1?label=Focus03&message=Python&color=yellow&style=plastic&logo=python"/>
+ 
+ 
+</p> 
+ ** Programming Language **
  <p> 
  >>> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/72px-Python.svg.png" width="120px" height="120">  >>> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50px" height="50"> >>> <img src="https://img1.gratispng.com/20180728/jlj/kisspng-dart-logo-programming-language-computer-programmin-python-stickers-5b5cab4f5832b6.9387097815327998233613.jpg" width="50px" height="50">
 </p> 
- ### Frameworks and Libs
+ ** Frameworks and Libs **
  <p> 
  >>> <img src="https://i.ytimg.com/vi/KD2kJetfzas/maxresdefault.jpg" width="120px" height="55"> >>> <img src="https://flutter.dev/images/flutter-logo-sharing.png"  width="120px" height="60"></p> 
