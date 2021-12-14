@@ -3,7 +3,8 @@
  ``` dart
  main(){
   formacao: 'Sistema de Informação - UFMS - 2012';
-  formacao_II: 'Analise e Desenvolvimento de Sistemas - Anhanguera Educacional - 2020';
+  formacao_II: 'Analise e Desenvolvimento de Sistemas - Anhanguera Educacional - 2020/2021';
+  formacao_III: 'Pós Graduação em Gestão de Projetos - Escola Conquer - 2022';
   cursos: '**ENGLISH** - Wizard / MyEnglish Online / Whise Up Online / Duolingo';
  } 
  ```
