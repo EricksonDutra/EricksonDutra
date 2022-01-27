@@ -43,5 +43,6 @@
 <img src="https://img.shields.io/static/v1?label=Focus03&message=Java&color=purple&style=plastic&logo=java"/>
 <img src="https://img.shields.io/static/v1?label=Focus04&message=Flutter&color=red&style=plastic&logo=flutter/">
 <img src="https://img.shields.io/static/v1?label=Focus05&message=React&color=blue&style=plastic&logo=react"/>
+<img src="https://img.shields.io/static/v1?label=*NOW*&message=Django&color=brown&style=plastic&logo=python"/>
 
  
