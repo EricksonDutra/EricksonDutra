@@ -11,12 +11,6 @@
  
 ## 🤓 This is my README
 
-<div>
-  <a href="https://github.com/EricksonDutra">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EricksonDutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricksonDutra&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
  
  ### Social_networks 
  <div>
