@@ -2,10 +2,13 @@
  📍 From Ponta Porã-MS
  ``` dart
  main(){
-  formacao: 'Sistema de Informação - UFMS - 2012';
-  formacao_II: 'Analise e Desenvolvimento de Sistemas - Anhanguera Educacional - 2020/2021';
-  formacao_III: 'Pós Graduação em Gestão de Projetos - Escola Conquer - 2022';
-  cursos: '**ENGLISH** - Wizard / MyEnglish Online / Whise Up Online / Duolingo';
+  Formação: 'Sistema de Informação - UFMS - 2012';
+  Formação_II: 'Análise e Desenvolvimento de Sistemas - Anhanguera Educacional - 2020/2021';
+  Formação_III: 'Pós Graduação em Gestão de Projetos - Escola Conquer - 2022';
+  Cursos: {
+      **ENGLISH** : Wizard / MyEnglish Online / Whise Up Online / Duolingo';
+      **Linguagens de Programação**: Python, Dart, Java, JavaScript, C#;
+      **Outras Habilidades**: Django, Node, Spring, React, Flutter, CSS, HTML, Power BI;
  } 
  ```
  
