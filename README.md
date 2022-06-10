@@ -12,7 +12,7 @@
  } 
  ```
  
-## 🤓 This is my README
+## 😎 This is my README
 
  
  ### Social_networks 
@@ -21,12 +21,12 @@
 
   <a href="https://www.linkedin.com/in/erickson-dutra-b8673453/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> >>>
+  </a> &nbsp &nbsp &nbsp &nbsp
   <a href="mailto:ericksond10@gmail.com" target="_blank" title="Email">
     <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1-2048x471.png" width="100px">
-  </a> >>>
+  </a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://twitter.com/ErickSon_Dut" target="_blank" title="Twitter">
-    <img src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-do-iacute-cone-do-twitter-by-vexels.png" width="40px"></a> >>>
+    <img src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-do-iacute-cone-do-twitter-by-vexels.png" width="40px"></a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://www.instagram.com/ericksdutra/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
