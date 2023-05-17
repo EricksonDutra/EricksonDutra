@@ -35,11 +35,11 @@
 <br>
 <h2>   💻 Studing..  👨‍💻 </h2>
  <p> 
-<img src="https://img.shields.io/static/v1?label=Focus01&message=Dart&color=green&style=plastic&logo=Dart/">
-<img src="https://img.shields.io/static/v1?label=Focus02&message=Python&color=yellow&style=plastic&logo=Python"/>
-<img src="https://img.shields.io/static/v1?label=Focus03&message=Java&color=purple&style=plastic&logo=java"/>
-<img src="https://img.shields.io/static/v1?label=Focus04&message=Flutter&color=red&style=plastic&logo=flutter/">
-<img src="https://img.shields.io/static/v1?label=Focus05&message=React&color=blue&style=plastic&logo=react"/>
-<img src="https://img.shields.io/static/v1?label=*NOW*&message=Django&color=brown&style=plastic&logo=python"/>
+<img src="https://img.shields.io/static/v1?label=*Working*&message=Dart&color=green&style=plastic&logo=Dart/">
+<img src="https://img.shields.io/static/v1?label=*Working*&message=Flutter&color=red&style=plastic&logo=flutter/">
+<img src="https://img.shields.io/static/v1?label=Focus01&message=React&color=blue&style=plastic&logo=react"/>
+ <img src="https://img.shields.io/static/v1?label=Focus02&message=Python&color=yellow&style=plastic&logo=Python"/>
+<img src="https://img.shields.io/static/v1?label=Focus03&message=Java&color=purple&style=plastic&logo=Java"/>
+<img src="https://img.shields.io/static/v1?label=Focus04&message=Django&color=brown&style=plastic&logo=python"/>
+<img src="https://img.shields.io/static/v1?label=Focus05&message=Csharp&color=grey&style=plastic&logo=csharp"/>
 
- 
