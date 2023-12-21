@@ -33,7 +33,7 @@
 </p>
  </div>
 <br>
-<h2>   💻 Studing..  👨‍💻 </h2>
+<h2>   💻 Learning and workin with:  👨‍💻 </h2>
  <p> 
 <img src="https://img.shields.io/static/v1?label=*Working*&message=Dart&color=green&style=plastic&logo=Dart/">
 <img src="https://img.shields.io/static/v1?label=*Working*&message=Flutter&color=red&style=plastic&logo=flutter/">
