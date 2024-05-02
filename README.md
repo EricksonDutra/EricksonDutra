@@ -4,11 +4,13 @@
  main(){
   Formacao: 'Sistema de Informação - UFMS - 2012';
   Formacao_II: 'Análise e Desenvolvimento de Sistemas - Anhanguera Educacional - 2020/2021';
-  Formacao_III: 'Pós Graduação em Gestão de Projetos - Escola Conquer - 2022';
+  Formacao_III: 'Pós Graduação em Gestão de Projetos - Escola Conquer - 2022-2023';
+  Formacao_IV: 'Pós Graduação em Arquitetura de Softwares e Soluções - XP Educação - 2024
   Cursos: {
-      **ENGLISH** : Wizard / MyEnglish Online / Whise Up Online / Duolingo;
+      **ENGLISH** : Wizard / MyEnglish Online / Whise Up Online / Duolingo / English4Tech / Conquer English;
       **Linguagens_de_Programacao**: Python, Dart, Java, JavaScript, C#;
-      **Outras_Habilidades**: Django, Node, Spring, React, Flutter, CSS, HTML, Power BI;
+      **Frameworks**: Django, Node, Spring, React, Flutter, CSS, HTML, Power BI;
+      **Outras_Habilidades**: Oratória, Gestão Ágil, Inteligência Emocional, Programação Neurolinguística;
  } 
  ```
  
